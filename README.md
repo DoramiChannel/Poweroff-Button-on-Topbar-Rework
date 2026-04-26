@@ -14,17 +14,17 @@ A continuation of [Poweroff-Button-on-Topbar Extension](https://extensions.gnome
 
 Easy, first clone the repository with 
 ```bash
-git clone https://github.com/DoramiChannel/Poweroff-Button-on-Topbar-Rework.git poweroff-button-on-topbar-rework@miladycat
+git clone https://github.com/DoramiChannel/Poweroff-Button-on-Topbar-Rework.git poweroff-button-on-topbar-rework@whatyouwantbtw
 ```
 
 # And now to install it, run 
 
 ```bash
-mv poweroff-button-on-topbar-rework@miladycat $HOME/.local/share/gnome-shell/extensions/
+mv poweroff-button-on-topbar-rework@whatyouwantbtw $HOME/.local/share/gnome-shell/extensions/
 ```
 ## Now restart your session and enjoy with the extension!
 
 ## Report any problems to: 
 ```Markdown
-https://github.com/MiladyDeb/Poweroff-Button-on-Topbar-Rework/issues
+https://github.com/DoramiChannel/Poweroff-Button-on-Topbar-Rework/issues
 ```
