@@ -7,7 +7,7 @@ A continuation of [Poweroff-Button-on-Topbar Extension](https://extensions.gnome
 
 # Preview of the extension
 
-![Alt text](https://github.com/DoramiChannel/Poweroff-Button-on-Topbar-Rework/blob/main/preview.png)
+![EPreview](https://github.com/DoramiChannel/Poweroff-Button-on-Topbar-Rework/blob/main/preview.png)
 
 
 # How do I install it?
